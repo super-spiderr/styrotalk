@@ -1,0 +1,13 @@
+node_modules/
+android/
+ios/
+build/
+coverage/
+package-lock.json
+yarn.lock
+Gemfile.lock
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif

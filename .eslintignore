@@ -1,0 +1,13 @@
+node_modules/
+android/
+ios/
+build/
+coverage/
+.bundle/
+vendor/
+*.js
+!src/
+!.eslintrc.js
+!.prettierrc.js
+!App.tsx
+!index.js
